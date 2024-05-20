@@ -1,0 +1,50 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 14%, rgba(0,212,255,1) 100%);
+}
+
+
+#formBody {
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    margin: 50px 0px 0px 535px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(182,45,165,1) 0%, rgba(0,212,255,1) 83%);
+}
+h3 {
+  text-align: center;
+  padding-top: 25px;
+}
+
+#word { 
+    margin-bottom: 20px;
+    width: 300px;
+    height: 30px;
+}
+
+#findbtn {
+    width: 120px;
+    height: 38px;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#resulttable{
+  margin-top: 25px;
+  margin-left: 380px;
+  width: 800px;
+  visibility: "hidden";
+}
+
+.reskeyclass{
+    width:20%;
+}
+
+.resvalueclass{
+    width:80%;
+}
